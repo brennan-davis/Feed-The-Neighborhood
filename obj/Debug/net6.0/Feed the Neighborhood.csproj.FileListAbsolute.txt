@@ -1,0 +1,15 @@
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\Feed the Neighborhood.csproj.AssemblyReference.cache
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\Feed the Neighborhood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\Feed the Neighborhood.AssemblyInfoInputs.cache
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\Feed the Neighborhood.AssemblyInfo.cs
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\Feed the Neighborhood.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\bin\Debug\net6.0\Feed the Neighborhood.exe
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\bin\Debug\net6.0\Feed the Neighborhood.deps.json
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\bin\Debug\net6.0\Feed the Neighborhood.runtimeconfig.json
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\bin\Debug\net6.0\Feed the Neighborhood.dll
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\bin\Debug\net6.0\Feed the Neighborhood.pdb
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\Feed the Neighborhood.dll
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\refint\Feed the Neighborhood.dll
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\Feed the Neighborhood.pdb
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\Feed the Neighborhood.genruntimeconfig.cache
+C:\Users\School\Desktop\Grand Circus Projects\Unit 1\Feed the Neighborhood\Feed the Neighborhood\obj\Debug\net6.0\ref\Feed the Neighborhood.dll
